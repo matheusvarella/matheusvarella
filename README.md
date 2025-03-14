@@ -4,12 +4,6 @@
    ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=f5f5f5&center=true&width=600&lines=Olá,+sou+o+Matheus!) 
  </div>
 
-# 👨🏻‍💻 Sobre mim
-- 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seu-usuario)](https://github.com/seu-usuario)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
-
 Bem-vindo(a) ao meu perfil! Sou desenvolvedor backend com foco em .NET e estou sempre buscando aprender e criar soluções eficientes. 
 
 ## Sobre mim
