@@ -4,7 +4,7 @@
    ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=f5f5f5&center=true&width=600&lines=Olá,+sou+o+Matheus!) 
  </div>
 
-Bem-vindo(a) ao meu perfil! Sou desenvolvedor backend com foco em .NET e estou sempre buscando aprender e criar soluções eficientes. 
+Sou desenvolvedor fullstack com foco em .NET e estou sempre buscando aprender e criar soluções que façam a diferença. 
 
 ## Sobre mim
 
