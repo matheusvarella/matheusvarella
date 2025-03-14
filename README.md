@@ -22,14 +22,6 @@ Bem-vindo(a) ao meu perfil! Sou desenvolvedor backend com foco em .NET e estou s
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## Estatísticas
-<div>
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula" />
-  </a>
-</div>
-
 ## Contato
 - **LinkedIn**: [Matheus Varela](https://www.linkedin.com/in/matheus-varella/)
 - **E-mail**: varellamat@gmail.com
